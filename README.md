@@ -5,7 +5,7 @@ I used 3 different datasets to build 3 different models to analyze the behavior 
 Here I introduce one of the dataset and its model.
 
 ## Data source
-Cardiovascular Disease dataset I ﬁnd on [Kaggle] (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). 
+Cardiovascular Disease dataset I ﬁnd on [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). 
 
 This data set consists of 70 000 records of patients data, 11 features and a binary target variable to indicate whether the victim has an cardiovascular disease or not. This11 features could be clustered as 3 types: 
 (1) Objective: factual information. Features of this type are quite streight forward. The age(by day), height(by cm), weight(by cm) and gender(categorical) of the victims all belong to this category. 
