@@ -8,9 +8,9 @@ Here I introduce one of the dataset and its model.
 Cardiovascular Disease dataset I ﬁnd on [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). 
 
 This data set consists of 70 000 records of patients data, 11 features and a binary target variable to indicate whether the victim has an cardiovascular disease or not. This11 features could be clustered as 3 types: 
-(1) Objective: factual information. Features of this type are quite streight forward. The age(by day), height(by cm), weight(by cm) and gender(categorical) of the victims all belong to this category. 
-(2) Examination: results of medical examination. This includes the Systolic blood pressure(by mmHg), Diastolic blood pressure(by mmHg), Cholesterol(categorical) and Glucose(categorical). 
-(3) Subjective: information given by the patient. This includes Smoking(binary), Alcohol intake(binary) and Physical activity(binary)
+- Objective: factual information. Features of this type are quite streight forward. The age(by day), height(by cm), weight(by cm) and gender(categorical) of the victims all belong to this category. 
+- Examination: results of medical examination. This includes the Systolic blood pressure(by mmHg), Diastolic blood pressure(by mmHg), Cholesterol(categorical) and Glucose(categorical). 
+- Subjective: information given by the patient. This includes Smoking(binary), Alcohol intake(binary) and Physical activity(binary)
 
 ## Question Analyzed
 
